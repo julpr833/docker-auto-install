@@ -1,2 +1,9 @@
-# docker-auto-install
-Fully automated Docker installation without much fuzz on Windows 10 and 11.
+# Docker Installer (PowerShell)
+
+Script simple para instalar y configurar Docker en Windows automáticamente.
+
+## Uso
+
+```bat
+install.bat
+```
